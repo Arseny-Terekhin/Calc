@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textSize">18sp</dimen>
+    <dimen name="padding">10dp</dimen>
+    <dimen name="widthEdittext">80dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+</resources>
